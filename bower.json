@@ -1,0 +1,13 @@
+{
+  "name": "shoping-site",
+  "description": "A starter project for shopping site",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-loader": "1.2.x",
+    "angular-mocks": "~1.2.x"
+  }
+}
